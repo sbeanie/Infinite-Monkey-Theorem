@@ -1,0 +1,48 @@
+1: Average Generated: 0 EndA1
+1: Maximum Generated: 0 EndB1
+1: Minimum Generated: 0 EndC1
+1: Runs: 0 EndD1
+1: Standard Deviation: 0 EndE1
+
+2: Average Generated: 0 EndA2
+2: Maximum Generated: 0 EndB2
+2: Minimum Generated: 0 EndC2
+2: Runs: 0 EndD2
+2: Standard Deviation: 0 EndE2
+
+3: Average Generated: 0 EndA3
+3: Maximum Generated: 0 EndB3
+3: Minimum Generated: 0 EndC3
+3: Runs: 0 EndD3
+3: Standard Deviation: 0 EndE3
+
+4: Average Generated: 407005 EndA4
+4: Maximum Generated: 889475 EndB4
+4: Minimum Generated: 26163 EndC4
+4: Runs: 5 EndD4
+4: Standard Deviation: 350321.19 EndE4
+
+5: Average Generated: 0 EndA5
+5: Maximum Generated: 0 EndB5
+5: Minimum Generated: 0 EndC5
+5: Runs: 0 EndD5
+5: Standard Deviation: 0 EndE5
+
+6: Average Generated: 0 EndA6
+6: Maximum Generated: 0 EndB6
+6: Minimum Generated: 0 EndC6
+6: Runs: 0 EndD6
+6: Standard Deviation: 0 EndE6
+
+7: Average Generated: 0 EndA7
+7: Maximum Generated: 0 EndB7
+7: Minimum Generated: 0 EndC7
+7: Runs: 0 EndD7
+7: Standard Deviation: 0 EndE7
+
+8: Average Generated: 0 EndA8
+8: Maximum Generated: 0 EndB8
+8: Minimum Generated: 0 EndC8
+8: Runs: 0 EndD8
+8: Standard Deviation: 0 EndE8
+
